@@ -1,1 +1,2 @@
-worker: node bot.js BlutigesPapiers'BOT
+worker: node bot.js BOT of BlutigesPapier for some Music
+
