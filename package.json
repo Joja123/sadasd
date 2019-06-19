@@ -1,9 +1,9 @@
     
 {
-  "name": "Test",
-  "description": "Test",
+  "name": "BlutigesPapier's BOT",
+  "description": "Mein Bot LG BlutigesPapier",
   "version": "0.0.0",
-  "main": "bot.js",
+  "main": "bot.js", BotofBlutigesPapierformusic
   "scripts": {
     "start": "node bot.js"
   },
