@@ -3,7 +3,7 @@
   "name": "BlutigesPapier's BOT",
   "description": "Mein Bot LG BlutigesPapier",
   "version": "0.0.0",
-  "main": "bot.js", BotofBlutigesPapierformusic
+  "main": "bot.js", BOTofBlutigesPapierforsomeMusic
   "scripts": {
     "start": "node bot.js"
   },
